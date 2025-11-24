@@ -1,8 +1,0 @@
-{
-  "latestVersion": "1.0.0",
-  "downloads": {
-    "arm64": "https://github.com/USER/REPO/releases/download/v1.2.0/nerkhjo-1.2.0-arm64.apk",
-    "armeabi-v7a": "https://github.com/USER/REPO/releases/download/v1.2.0/nerkhjo-1.2.0-armeabi-v7a.apk",
-    "universal": "https://github.com/USER/REPO/releases/download/v1.2.0/nerkhjo-1.2.0-universal.apk"
-  }
-}
